@@ -1,0 +1,2 @@
+# AzureStaticApp
+Prova
